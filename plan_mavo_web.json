@@ -14,6 +14,17 @@
 			],
 			"language": [],
 			"take_note": []
+		},
+		{
+			"domain_yes": "domain_yes",
+			"domain_no": "domain_yes",
+			"screen": [
+				{}
+			],
+			"language": [],
+			"take_note": [
+				null
+			]
 		}
 	]
 }
