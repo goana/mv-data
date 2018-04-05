@@ -1,3 +1,16 @@
 {
-	"briefing": []
+	"briefing": [
+		{
+			"id": "01",
+			"name": "Makita",
+			"description": "Ecommerce de herramientas eléctricas inalámbricas y con cable.",
+			"screen": [
+				{}
+			],
+			"language": [],
+			"take_note": [
+				null
+			]
+		}
+	]
 }
