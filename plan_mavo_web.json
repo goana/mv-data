@@ -4,6 +4,11 @@
 			"id": "01",
 			"name": "Makita",
 			"description": "Ecommerce de herramientas eléctricas inalámbricas y con cable.",
+			"day_start": "2018-04-06",
+			"day_end": "2018-04-13",
+			"domain_yes": "domain_yes",
+			"domain_no": "domain_yes",
+			"domain": "www.makita.es",
 			"screen": [
 				{}
 			],
