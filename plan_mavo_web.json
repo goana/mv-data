@@ -17,7 +17,9 @@
 			"hosting_yes": "hosting_yes",
 			"hosting_no": "hosting_yes",
 			"hosting": "1&1",
-			"hosting_comment": "lo que sea"
+			"hosting_comment": "lo que sea",
+			"design": "noidea",
+			"develope": "fran"
 		},
 		{
 			"domain_yes": "domain_yes",
@@ -28,9 +30,9 @@
 				{}
 			],
 			"language": [],
-			"take_note": [
-				null
-			]
+			"take_note": [],
+			"design": "noidea",
+			"develope": "noidea"
 		}
 	]
 }
