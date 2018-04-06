@@ -13,7 +13,24 @@
 				{}
 			],
 			"language": [],
-			"take_note": []
+			"take_note": [],
+			"hosting_yes": "hosting_yes",
+			"hosting_no": "hosting_yes",
+			"hosting": "1&1",
+			"hosting_comment": "lo que sea"
+		},
+		{
+			"domain_yes": "domain_yes",
+			"domain_no": "domain_yes",
+			"hosting_yes": "hosting_yes",
+			"hosting_no": "hosting_yes",
+			"screen": [
+				{}
+			],
+			"language": [],
+			"take_note": [
+				null
+			]
 		}
 	]
 }
